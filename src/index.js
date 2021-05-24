@@ -67,7 +67,7 @@ class Hello extends React.Component{
         return 0;
       }
       //if they add up to the max
-      else if (parseInt(pOne)+parseInt(pTwo) == maxO) {
+      else if (parseInt(pOne)+parseInt(pTwo) === maxO) {
         return 2;
       }
       //if they dont match
