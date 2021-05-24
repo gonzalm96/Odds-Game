@@ -197,9 +197,9 @@ class Results extends React.Component{
 }
 
 class Heading extends React.Component{
-  constructor(props){
-    super(props);
-  }
+  // constructor(props){
+  //   super(props);
+  // }
   
   render(){
     return(
